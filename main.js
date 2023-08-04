@@ -1,4 +1,4 @@
-// script.js
+// main.js
 document.getElementById("generate-btn").addEventListener("click", function() {
     var name = document.getElementById("name").value;
     var email = document.getElementById("email").value;
